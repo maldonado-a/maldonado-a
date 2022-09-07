@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, mi nombre es Maria de Los Angeles Maldonado</h1>
-<h3 align="center">Vivo en Buenos Aires, Argentina y soy Developer Fronted 💻, desde hace un tiempo estoy incursionando en el mundo de la programación y descubrí una gran pasión que quiero seguir desarrollando! Me encanta aprender cosas nuevas y compartir mi conocimiento con los demás. Trabajar en equipo y nutrirme del resto lo considero clave para que todo proyecto sea bien encaminado y llevado a su fin.</h3>
+<h3 align="center">Vivo en Buenos Aires, Argentina y soy Desarrolladora Web 💻, desde hace un tiempo estoy incursionando en el mundo de la programación y descubrí una gran pasión que quiero seguir desarrollando! Me encanta aprender cosas nuevas y compartir mi conocimiento con los demás. Trabajar en equipo y nutrirme del resto lo considero clave para que todo proyecto sea bien encaminado y llevado a su fin.</h3>
 
 
 - 👨‍💻 Mis [repositorios](https://github.com/maldonado-a?tab=repositories)
